@@ -1,0 +1,2 @@
+Download link for wav2vec_small.pt:
+https://drive.google.com/file/d/1uJKEIpagoZzVnPKudbHm8_EbTo8miUvk/view?usp=sharing
